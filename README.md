@@ -15,3 +15,28 @@ Exploratory Data Analysis (EDA) - In this module we started working on our first
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/Desafio2-individual-Benatti-v2.ipynb">Desafio 2</a>
 
 Machine Learning - Introduction
+
+
+
+In addition to all of the above, I have also reading several articles in some amazing places that I really recommend to any new Data Science enthusiastic:
+
+<a href="https://medium.com/">Medium Daily Digest</a>
+<a href="https://towardsdatascience.com/">Towards Data Science</a>
+<a href="https://www.datasciencecentral.com/">Data Science Central</a>
+
+In those I was able to figure out a lot of useful information and learn each day a little bit more.
+
+Check some of my notebooks I am creating so I can review them later:
+
+<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/how_to_join_merge_dataframes_in_pandas_python.ipynb">How to join (merge) data frames (inner, outer, right, left join) in pandas python</a>
+
+<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/load_massive_file_as_small_chunks.ipynb">Load Massive File as Small Chunks</a>
+
+<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/plotando_mapas.ipynb">Plotting Maps with Folium</a>
+
+<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/Matplotlib%20Guide%20For%20People%20In%20A%20Hurry.ipynb">Matplotlib Guide For People In A Hurry</a>
+
+<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/linear_regression_in_python_with_scikit_learn.ipynb">A beginner’s guide to Linear Regression in Python with Scikit-Learn</a>
+
+<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/imovelweb.ipynb">Webscrapping with Selenium</a>
+
