@@ -2,21 +2,23 @@
 
 ## Welcome to my place where I am currently enjoying the Data Science world!
 
-While taking the Data Science course, I had developed some Jupyter notebooks by end of each modules we have:
+While taking the Data Science course, I had developed some Jupyter notebooks by end of each modules. Please check them below.
 
-Exploratory Data Analysis (EDA) - Introduction course where I have learned and practice the basics of Pandas to explore some datasets using python and some libraries. Here we had our fisrt challenging exercise:
+**Exploratory Data Analysis (EDA)** - Introduction course where I have learned and practice the basics of Pandas to explore some datasets using python and some libraries. Here we had our fisrt challenging exercise:
 
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/Desafio1.ipynb">Desafio 1</a>
 
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/desafio1-parte2.ipynb">Desafio 1 - Parte 2</a>
 
-Exploratory Data Analysis (EDA) - In this module we started working on our first regressions, either Linear and Logisitic. In addition, we had our second challenging exercise:
+**Exploratory Data Analysis (EDA) Intermediate** - In this module we started working on our first regressions, either Linear and Logisitic. In addition, we had our second challenging exercise:
 
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/Desafio2-individual-Benatti-v2.ipynb">Desafio 2</a>
 
-Machine Learning - Introduction
+**Machine Learning Introduction**
 
+**Machine Learning Intermediate - Classification and Ensembles**
 
+**Advanced Topics - Connectivity and Neural Netowrks**
 
 In addition to all of the above, I have also reading several articles in some amazing places that I really recommend to any new Data Science enthusiastic:
 
