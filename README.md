@@ -28,9 +28,9 @@ In addition to all of the above, I have also reading several articles in some am
   <li><a href="https://www.datasciencecentral.com/">Data Science Central</a></li>
 </ul>
 
-In those I was able to figure out a lot of useful information and learn each day a little bit more.
+In those, I was able to figure out a lot of useful information and learn each day a little bit more.
 
-Check some of my notebooks I am creating so I can review them later:
+Check also some notebooks I am collecting so I can review them later:
 
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/how_to_join_merge_dataframes_in_pandas_python.ipynb">How to join (merge) data frames (inner, outer, right, left join) in pandas python</a>
 
@@ -43,4 +43,15 @@ Check some of my notebooks I am creating so I can review them later:
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/linear_regression_in_python_with_scikit_learn.ipynb">A beginner’s guide to Linear Regression in Python with Scikit-Learn</a>
 
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/imovelweb.ipynb">Webscrapping with Selenium</a>
+
+With all that said, I am developing some skills really important in this area!
+
+- Exploratory Data Analysis / EDA (solid understanding of both Descriptive and Inferential Statistics)
+- Data wrangling and cleaning
+- Metrics and experimentation
+- Programming with Python and their related libraries (NumPy, Scikit-Learn, Statsmodel, Matplotlib, Seaborn)
+- Data Analysis using Jupyter tool and Pandas
+- Data Visualization (Matplotlib / Seaborn) and Communication (Storytelling)
+- Statistical modeling
+- Machine Learning modeling
 
