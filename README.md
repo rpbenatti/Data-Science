@@ -36,7 +36,7 @@ Check some of my notebooks I am creating so I can review them later:
 
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/plotando_mapas.ipynb">Plotting Maps with Folium</a>
 
-<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/ 	Matplotlib_Guide_For_People_In_A_Hurry.ipynb">Matplotlib Guide For People In A Hurry</a>
+<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/Matplotlib_Guide_For_People_In_A_Hurry.ipynb">Matplotlib Guide For People In A Hurry</a>
 
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/linear_regression_in_python_with_scikit_learn.ipynb">A beginner’s guide to Linear Regression in Python with Scikit-Learn</a>
 
