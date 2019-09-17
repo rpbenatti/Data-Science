@@ -21,9 +21,9 @@ Machine Learning - Introduction
 In addition to all of the above, I have also reading several articles in some amazing places that I really recommend to any new Data Science enthusiastic:
 
 <ul>
-<a href="https://medium.com/">Medium Daily Digest</a>
-<a href="https://towardsdatascience.com/">Towards Data Science</a>
-<a href="https://www.datasciencecentral.com/">Data Science Central</a>
+  <li><a href="https://medium.com/">Medium Daily Digest</a></li>
+  <li><a href="https://towardsdatascience.com/">Towards Data Science</a></li>
+  <li><a href="https://www.datasciencecentral.com/">Data Science Central</a></li>
 </ul>
 
 In those I was able to figure out a lot of useful information and learn each day a little bit more.
