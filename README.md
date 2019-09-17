@@ -6,12 +6,12 @@ While taking the Data Science course, I had developed some Jupyter notebooks by 
 
 Exploratory Data Analysis (EDA) - Introduction course where I have learned and practice the basics of Pandas to explore some datasets using python and some libraries. Here we had our fisrt challenging exercise:
 
-https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/Desafio1.ipynb
+<a href>https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/Desafio1.ipynb</a>
 
-https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/desafio1-parte2.ipynb
+<a href>https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/desafio1-parte2.ipynb</a>
 
 Exploratory Data Analysis (EDA) - In this module we started working on our first regressions, either Linear and Logisitic. In addition, we had our second challenging exercise:
 
-https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/Desafio2-individual-Benatti-v2.ipynb
+<a href>https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/Desafio2-individual-Benatti-v2.ipynb>/a>
 
 Machine Learning - Introduction
