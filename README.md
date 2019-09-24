@@ -44,6 +44,8 @@ Check also some notebooks I am collecting so I can review them later:
 
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/imovelweb.ipynb">Webscrapping with Selenium</a>
 
+<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/mapa-estacoes-cetesb.ipynb">Mapa estações CETESB</a>
+
 With all that said, I am developing some skills really important in this area!
 
 - Exploratory Data Analysis / EDA (solid understanding of both Descriptive and Inferential Statistics)
