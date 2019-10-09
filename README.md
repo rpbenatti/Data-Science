@@ -10,11 +10,15 @@ While taking the Data Science course, I had developed some Jupyter notebooks by 
 
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/desafio1-parte2.ipynb">Desafio 1 - Parte 2</a>
 
-**Exploratory Data Analysis (EDA) Intermediate** - In this module we started working on our first regressions, either Linear and Logisitic. In addition, we had our second challenging exercise:
+**Exploratory Data Analysis (EDA) Intermediate** - In this module we started working on our first regressions, either Linear and Logistic. In addition, we had our second challenging exercise:
 
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/Desafio2-individual-Benatti-v2.ipynb">Desafio 2</a>
 
-**Machine Learning Introduction**
+**Machine Learning Introduction** - In this module we started implementing our first ML models, supervised and unsupervised, following a ML pipeline (Import, instance, fit, then predict (supervised) or tranform (unsupervised), evaluate and plot). In addition, we had our third challenging exercise:
+
+<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/desafio3_Benatti_v2.ipynb">Desafio 3</a>
+
+<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/DH Desafio 3 Benatti.ipynb">Desafio 3 (EDA+ and additional models)</a>
 
 **Machine Learning Intermediate - Classification and Ensembles**
 
