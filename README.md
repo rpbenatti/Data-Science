@@ -22,7 +22,7 @@ While taking the Data Science course, I had developed some Jupyter notebooks by 
 
 **Machine Learning Intermediate - Classification and Ensembles**
 
-**Advanced Topics - Connectivity and Neural Netowrks**
+**Advanced Topics - Connectivity and Neural Networks**
 
 In addition to all of the above, I have also reading several articles in some amazing places that I really recommend to any new Data Science enthusiastic:
 
@@ -61,3 +61,6 @@ With all that said, I am developing some skills really important in this area!
 - Statistical modeling
 - Machine Learning modeling
 
+<a href="https://nbviewer.jupyter.org/github/rpbenatti/DS-DH-Project/blob/master/Projeto-Integrador-Grupo5-RespiroBem.ipynb">Data Science Project at Digital House - RespiroBem - Qualidade do Ar em Sao Paulo</a>
+
+https://github.com/rpbenatti/
