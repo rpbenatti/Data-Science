@@ -22,7 +22,7 @@ While taking the Data Science course, I had developed some Jupyter notebooks by 
 
 **Machine Learning Intermediate - Classification and Ensembles** - In the fourth module we started to work with ensembled models, learning the techniques to combine different models into one hence having better performance. In addition, we learned how to interpret the models by using SHAP, LIME and ELI5. Then we had an overview of recommendation systems. In this module we also have some classes regarding Time Series topic. The challenge this time was:
 
-<b>Desafio 4<b>
+<b>Desafio 4</b>
 
 Kaggle: https://www.kaggle.com/c/web-traffic-time-series-forecasting
 
