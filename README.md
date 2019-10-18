@@ -2,7 +2,7 @@
 
 ## Welcome to my place where I am currently enjoying the Data Science world!
 
-While taking the Data Science course, I had developed some Jupyter notebooks by end of each modules. Please check them below.
+During the period of July to November 2019, I am taking a Data Science course at <a href="https://br.digitalhouse.com/">Digital House do Brasil</a>, where I have been developing some Jupyter notebooks by end of each module. Please check them below.
 
 **Exploratory Data Analysis (EDA)** - Introduction course where I have learned and practice the basics of Pandas to explore some datasets using python and some libraries. Here we had our fisrt challenging exercise:
 
@@ -67,6 +67,13 @@ With all that said, I am developing some skills really important in this area!
 - Statistical modeling
 - Machine Learning modeling
 
+Along the course, we are working as a team in a project to be presented at the end of it. The topic we chose was the Air Quality in São Paulo, how to predict the principal PM 2.5 (Particulate Matter of 2.5 micrograms size) using Time Series approach and how to convert the results in a Score varying from 0 to 10, which could be used for the population to assist in their daily routines to prevent from diseases.
+
+The Jupyter notebook we are developing can be easily be accessed at below link:
+
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/DS-DH-Project/blob/master/Projeto-Integrador-Grupo5-RespiroBem.ipynb">Data Science Project at Digital House - RespiroBem - Qualidade do Ar em Sao Paulo</a>
 
+Thank you for reading this!
+
 https://github.com/rpbenatti/
+
