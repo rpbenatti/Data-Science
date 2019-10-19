@@ -1,4 +1,4 @@
-<style>body {background-image: url("data-science-words.png");background-repeat:no-repeat;background-size:cover;}</style>
+<style>body {background-image: url("tsne-plot.png");background-repeat:no-repeat;background-size:cover;}</style>
 
 # Data-Science
 
