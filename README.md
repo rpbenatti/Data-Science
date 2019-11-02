@@ -87,5 +87,5 @@ The Jupyter notebook we are developing can be easily be accessed at below link:
 
 Thank you for reading this!
 
-https://github.com/rpbenatti/
+<a href=https://github.com/rpbenatti/>Access my page @ GitHub</a>
 
