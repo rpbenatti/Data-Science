@@ -89,3 +89,6 @@ Thank you for reading this!
 
 <a href="https://github.com/rpbenatti/">Access my page @ GitHub</a>
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="light" data-vanity="roberto-porto-benatti"><a class="LI-simple-link" href='https://br.linkedin.com/in/roberto-porto-benatti?trk=profile-badge'>Roberto Porto Benatti</a></div>
