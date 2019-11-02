@@ -1,12 +1,12 @@
 <style>body {background-image: url("data-science-lego.jpg");background-repeat:no-repeat;background-size:cover;}</style>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-<table border="0">
+<table border="0" style="background-color: none;">
 <tr>
   <td><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="roberto-porto-benatti"><a class="LI-simple-link" href='https://br.linkedin.com/in/roberto-porto-benatti?trk=profile-badge'>Roberto Porto Benatti</a></div></td>
   <td>
     <b>Welcome to my place where I am currently enjoying the Data Science world!</b>
-    <br>
+    <br><br>
     During the period of July to November 2019, I am taking a Data Science course at <a href="https://br.digitalhouse.com/">Digital House do Brasil</a>, where I have been developing some Jupyter notebooks by end of each module. Please check them below.
 </td>
 </tr>
