@@ -12,15 +12,25 @@ During the period of July to November 2019, I am taking a Data Science course at
 
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/desafio1-parte2.ipynb">Desafio 1 - Parte 2</a>
 
+This was our first challenge in the course. The main idea here was to practice using Pandas and python to read a database and perform some basic Exploratory Data Analysis (EDA). Our study for this topic was to use the CAGED database (Cadastro Geral de Empregados e Desempregados), which contains general information about employed and unemployed in the country.
+
 **Exploratory Data Analysis (EDA) Intermediate** - In the second module we started working on our first regressions, either Linear and Logistic. In addition, we had our second challenging exercise:
 
-<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/Desafio2-individual-Benatti-v2.ipynb">Desafio 2</a>
+<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/Desafio2-grupo5-final-v5_entrega.ipynb">Desafio 2 (Group Part)</a>
+
+<a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/Desafio2-individual-Benatti-v2.ipynb">Desafio 2 (Individual Part)</a>
+
+In this challenge, we had to perform some Exploratory Data Analisys (EDA) on top of the graduate courses available in Brazil, making some hypotesis tests and modeling a logistic regression to try to figure out why the students are leaving the courses, among other inferences. For this, we based our study on the INEP database (http://portal.inep.gov.br/web/guest/microdados).
 
 **Machine Learning Introduction** - In the third module we started implementing our first ML models, supervised and unsupervised, following a ML pipeline (Import, instance, fit, then predict (supervised) or tranform (unsupervised), evaluate and plot). In addition, we had our third challenging exercise:
 
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/desafio3_Benatti_v2.ipynb">Desafio 3</a>
 
 <a href="https://nbviewer.jupyter.org/github/rpbenatti/Data-Science/blob/master/DH Desafio 3 Benatti.ipynb">Desafio 3 (EDA+ and additional models)</a>
+
+<a href="https://www.kaggle.com/rpbenatti/dh-desafio-3-benatti">Desafio 3 (Kaggle)</a>
+
+In this challenge, the purpose is to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. The data provided for this competition has the same structure as the real data customer has available to solve this problem.
 
 **Machine Learning Intermediate - Classification and Ensembles** - In the fourth module we started to work with ensembled models, learning the techniques to combine different models into one hence having better performance. In addition, we learned how to interpret the models by using SHAP, LIME and ELI5. Then we had an overview of recommendation systems. In this module we also have some classes regarding Time Series topic. The challenge this time was:
 
