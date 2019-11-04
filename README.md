@@ -39,7 +39,9 @@ In this challenge, the purpose is to identify which customers will make a specif
 
 **Machine Learning Intermediate - Classification and Ensembles** - In the fourth module we started to work with ensembled models, learning the techniques to combine different models into one hence having better performance. In addition, we learned how to interpret the models by using SHAP, LIME and ELI5. Then we had an overview of recommendation systems. In this module we also have some classes regarding Time Series topic. The challenge this time was:
 
-<a href="https://www.kaggle.com/rpbenatti/dh-desafio-4-benatti">Desafio 4</a>
+<a href="https://www.kaggle.com/rpbenatti/dh-desafio-4-benatti">Desafio 4 (Prophet approach)</a>
+
+<a href="https://www.kaggle.com/rpbenatti/dh-desafio-4-benatti-ml">Desafio 4 (ML approach)</a>
 
 Kaggle: https://www.kaggle.com/c/web-traffic-time-series-forecasting
 
